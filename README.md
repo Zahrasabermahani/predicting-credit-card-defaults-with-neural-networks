@@ -2,7 +2,7 @@
 A comparison of simple and deep neural networks to predict credit card default risk using customer attributes from the UCI dataset.
 
 
-## 🧠 Predicting Credit Card Defaults – My Neural Network Tryout
+##  Predicting Credit Card Defaults – My Neural Network Tryout
 
 For this small project, I used a real dataset of credit card users to see if I could predict who might default on a payment. It had 23 features per person — stuff like credit history, payment amounts, and more.
 
@@ -10,7 +10,7 @@ Let’s be honest, who wouldn't want to know ahead of time who might miss their 
 
 ---
 
-### 🔧 What I did
+###  What I did
 
 - Pulled in the data with `numpy.genfromtxt()`  
 - Scaled all the input features using `StandardScaler` so the model wouldn’t get confused by big number differences  
