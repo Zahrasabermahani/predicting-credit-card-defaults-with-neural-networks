@@ -4,7 +4,7 @@ A comparison of simple and deep neural networks to predict credit card default r
 
 ##  Predicting Credit Card Defaults – My Neural Network Tryout
 
-For this small project, I used a real dataset of credit card users to see if I could predict who might default on a payment. It had 23 features per person — stuff like credit history, payment amounts, and more.
+For this small project, I used a real dataset of credit card users to see if I could predict who might default on a payment. It had 23 features per person, stuff like credit history, payment amounts, and more.
 
 Let’s be honest, who wouldn't want to know ahead of time who might miss their payment?
 
